@@ -23,6 +23,6 @@ li:last-child{
 li:nth-child{
 	background-color:white;
 }
-li:nth-child(3){
+li:nth-last-child(3){
 	background-color:pink;
 }
