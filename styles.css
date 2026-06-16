@@ -3,7 +3,7 @@ p:first-child{
 	text-decoration-color:white;
 	background-color:black;
 }
-p:nth-child{
+p:nth-child(2){
 	color:white;
 }
 p:last-child{
